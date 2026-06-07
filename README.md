@@ -2,7 +2,7 @@
 
 Una plataforma moderna de grado empresarial para la gestión, venta y reserva de tours de aventura (RZRs, ATVs, Camellos, Bicicletas). Diseñada para escalar y ofrecer una experiencia de usuario de alta conversión y rendimiento competitivo en el mercado turístico.
 
-## 🚀 Tecnologías Principales
+## Tecnologías Principales
 
 Este proyecto está construido con el *Modern Web Stack* para garantizar seguridad, velocidad y un excelente posicionamiento SEO:
 
@@ -11,20 +11,20 @@ Este proyecto está construido con el *Modern Web Stack* para garantizar segurid
 *   **Estilos y UI:** [Tailwind CSS](https://tailwindcss.com/)
 *   **Base de Datos & Backend-as-a-Service:** [Supabase](https://supabase.com/) (PostgreSQL)
 
-## 🌟 Características Destacadas (En Desarrollo)
+## Características Destacadas (En Desarrollo)
 
 *   **Catálogo Dinámico:** Visualización rápida de tours y disponibilidad.
 *   **Gestión de Inventario:** Control estricto de disponibilidad de vehículos por fecha y hora.
 *   **Seguridad RLS:** Políticas de seguridad a nivel de fila (Row Level Security) directamente en la base de datos de PostgreSQL.
 *   **Sistema de Reservas:** Flujo de pago y confirmación intuitivo para el turista.
 
-## 📦 Configuración para Desarrollo Local
+## Configuración para Desarrollo Local
 
 Sigue estos pasos para levantar el entorno de desarrollo en tu máquina local:
 
 ### 1. Clonar el repositorio
-```
 git clone [https://github.com/HenryC31/Tours.git](https://github.com/HenryC31/Tours.git)
+```
 cd Tours
 ```
 ### 2. Instalar dependencias
